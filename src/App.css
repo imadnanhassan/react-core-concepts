@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.product{
+  background-color: cadetblue;
+  color: #fff;
+  padding: 15px;
+  margin: 35px;
+}
